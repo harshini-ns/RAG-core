@@ -9,7 +9,8 @@ RAG Architecture:
 Repository code:
 
 a) Embedding API implementation :  https://huggingface.co/mixedbread-ai/mxbai-embed-large-v1?text=hello&inference_api=true
-b) Open AI Chat API implementation
+
+b) Open AI Chat API implementation.
 
 Referred links: 
 
